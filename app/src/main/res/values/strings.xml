@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- string dalam spinner -->
+    <string name="popular">Most Popular</string>
+    <string name="popular_param">popular</string>
+    <string name="top_rated">Highest Rated</string>
+    <string name="top_rated_param">top_rated</string>
+
+    <!-- string untuk error message jika ga connect -->
+    <string name="error_message">Failed to get results. Please try again.</string>
+
+    <!-- string untuk activity_detail -->
+    <string name="title">Film Title</string>
+    <string name="relase">RELASE DATE</string>
+    <string name="rating">RATING</string>
+    <string name="overview">OVERVIEW</string>
+
+</resources>
